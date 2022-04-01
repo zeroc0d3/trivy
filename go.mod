@@ -3,7 +3,7 @@ module github.com/aquasecurity/trivy
 go 1.17
 
 require (
-	github.com/CycloneDX/cyclonedx-go v0.4.0
+	github.com/CycloneDX/cyclonedx-go v0.5.1
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46
 	github.com/aquasecurity/bolt-fixtures v0.0.0-20200903104109-d34e7f983986
@@ -35,7 +35,7 @@ require (
 	github.com/owenrumney/go-sarif/v2 v2.0.17
 	github.com/package-url/packageurl-go v0.1.1-0.20220203205134-d70459300c8a
 	github.com/spf13/afero v1.8.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/testcontainers/testcontainers-go v0.11.1
 	github.com/twitchtv/twirp v8.1.1+incompatible
 	github.com/urfave/cli/v2 v2.3.0
