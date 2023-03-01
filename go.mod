@@ -32,7 +32,7 @@ require (
 	github.com/docker/docker v20.10.20+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/fatih/color v1.13.0
-	github.com/go-openapi/runtime v0.24.2
+	github.com/go-openapi/runtime v0.25.0
 	github.com/go-openapi/strfmt v0.21.3
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/golang-jwt/jwt v3.2.2+incompatible
@@ -55,7 +55,7 @@ require (
 	github.com/package-url/packageurl-go v0.1.1-0.20220203205134-d70459300c8a
 	github.com/samber/lo v1.33.0
 	github.com/secure-systems-lab/go-securesystemslib v0.4.0
-	github.com/sigstore/rekor v1.0.0
+	github.com/sigstore/rekor v0.2.0
 	github.com/sosedoff/gitkit v0.3.0
 	github.com/spf13/cobra v1.6.0
 	github.com/spf13/pflag v1.0.5
@@ -126,6 +126,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.23.0 // indirect
 	github.com/aws/smithy-go v1.13.4 // indirect
 	github.com/emicklei/go-restful/v3 v3.8.0 // indirect
+	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-openapi/analysis v0.21.4 // indirect
 	github.com/go-openapi/errors v0.20.3 // indirect
 	github.com/go-openapi/loads v0.21.2 // indirect
@@ -145,6 +146,8 @@ require (
 	github.com/shibumi/go-pathspec v1.3.0 // indirect
 	github.com/tchap/go-patricia/v2 v2.3.1 // indirect
 	go.mongodb.org/mongo-driver v1.10.0 // indirect
+	go.opentelemetry.io/otel v1.11.1 // indirect
+	go.opentelemetry.io/otel/trace v1.11.1 // indirect
 )
 
 require (
