@@ -70,7 +70,7 @@ require (
 	github.com/moby/buildkit v0.11.5
 	github.com/open-policy-agent/opa v0.45.0
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.1.0-rc2.0.20221020182949-4df8887994e8
+	github.com/opencontainers/image-spec v1.1.0-rc5
 	github.com/openvex/go-vex v0.2.0
 	github.com/owenrumney/go-sarif/v2 v2.2.0
 	github.com/package-url/packageurl-go v0.1.1-0.20220428063043-89078438f170
